@@ -4,7 +4,7 @@ Tahle hra spočívá v tom že musíte zníčit nepřátelské mimozemšťany po
 To platí taky když vás střelí nepřátelé nebo jejich ufo, ale nezoufejte mate 3 životy na to aby jste zníčili jejich armádu.
 
 # Návod jak hru hrát
-Je to velice jednoduché klávesama WASD se pohybujete a klávesou MEZERNÍK jenom střílíte, tak na co ještě čekáš bež pomoct lidstvu od mimoženšťanúm a dej jim co proto!
+Je to velice jednoduché klávesama AD se pohybujete a klávesou MEZERNÍK jenom střílíte, tak na co ještě čekáš bež pomoct lidstvu od mimoženšťanúm a dej jim co proto!
 
 # Screenshoty ze hry
 ![image](https://github.com/user-attachments/assets/de62db47-2692-49d3-9e4e-85a4bb737a7a)
